@@ -1,7 +1,7 @@
 # Data_Analyst_Intern
 ## 1. PROBLEM:
    
-You are provided with daily historical sales data. The dataset contains 5 .csv file, file description description below:
+The dataset contains 5 .csv file, file description description below:
 
 ## File descriptions:
 
